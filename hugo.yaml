@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Eighth Logarithm
+    title: Jagadeesh Mummana
     subtitle: "Personal Tech Blog Site"
     # imageUrl: "<img location>"
     # imageWidth: 120
