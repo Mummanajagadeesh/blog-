@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "This is my first post on my blog site :)"
-canonicalURL: "https://mummanajagadeesh.github.io/blogs/"
+canonicalURL: "https://mummanajagadeesh.github.io/blog/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
