@@ -38,3 +38,4 @@ editPost:
 
 ## EXAMPLE PAGE
 
+This exists for reasons unknown to humanity. Don’t overthink it. Just don’t ask
