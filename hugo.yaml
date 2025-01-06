@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: MJ97 BLOGS
-    subtitle: "Personal Blog Website"
+    title: Eighth Logarithm
+    subtitle: "Personal Tech Blog Site"
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
