@@ -128,7 +128,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: MoreAboutME
-      name: MoreAboutME
+      name: MySite
       url: https://mummanajagadeesh.github.io/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
