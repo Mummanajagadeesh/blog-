@@ -11,7 +11,7 @@ showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "This is my first post on my blog site :)"
 canonicalURL: "https://mummanajagadeesh.github.io/blog/"
 disableHLJS: true # to disable highlightjs
