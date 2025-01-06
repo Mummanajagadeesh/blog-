@@ -61,10 +61,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Jagadeesh Mummana
     subtitle: "This is my personal tech blog site =P"
-    # imageUrl: "<img location>"
-    # imageWidth: 120
-    # imageHeight: 120
-    # imageTitle: my image
+    imageUrl: "/assets/profile.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: profile
     buttons:
       - name: POSTS
         url: posts/
