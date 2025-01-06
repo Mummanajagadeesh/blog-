@@ -36,15 +36,5 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Let’s Collaborate 🤝  
-
-If any of these projects sound interesting or if you’ve got something in mind you’d like to team up on, let me know. I’m always open to new ideas and collaborations. And if you’re stuck on something and need help, just ask—I’ll do what I can.
-
-## Connect With Me 🌐  
-
-Here’s where you can find me:  
-- 🌌 **Portfolio**: [mummanajagadeesh.github.io](https://mummanajagadeesh.github.io)  
-- 💼 **LinkedIn**: [Jagadeesh Mummana](https://www.linkedin.com/in/jagadeeeshmummana)  
-- 🔧 **GitHub**: [Mummanajagadeesh](https://github.com/Mummanajagadeesh)  
-- 📸 **Instagram**: [@jagadeesh__97__](https://www.instagram.com/jagadeesh__97__)  
+## EXAMPLE PAGE
 
