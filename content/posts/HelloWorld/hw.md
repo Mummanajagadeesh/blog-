@@ -74,6 +74,7 @@ Here are a few things I’ve been working on:
 
 ![Prosthetic Arm](/assets/projects/prosarm.png)
 ![Prosthetic Arm](https://github.com/Mummanajagadeesh/blog/blob/main/assets/projects/prosarm.png)
+{{< figure align=center src="/assets/projects/prosarm.jpg" >}}
 
 
 2. **[V-RU81K5CU83](https://github.com/Mummanajagadeesh/V-RU81K5CU83)** (*part of [RU83C](https://github.com/Mummanajagadeesh/RU83C)*) – *Virtual Rubik's Cube Simulator*  
