@@ -84,7 +84,7 @@ Here are a few things I’ve been working on:
 3. **[ImProVe](https://github.com/Mummanajagadeesh/ImProVe)** – *Image Processing Using Verilog*  
    This one’s about using Verilog for basic image processing—stuff like edge detection and geometric transformations. It’s been a fun mix of hardware and software. Here are a couple of spin-offs from this project:
 
-![ImProVe - Label Detection](hw/improve-label.png)
+![ImProVe - Label Detection](improve-label.png)
 
 
    - **Label Detection**:  
