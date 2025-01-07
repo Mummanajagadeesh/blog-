@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/assets/profile.jpg"
-    favicon16x16: "/assets/profile.jpg"
-    favicon32x32: "/assets/profile.jpg"
-    apple_touch_icon: "/assets/profile.jpg"
-    safari_pinned_tab: "/assets/profile.jpg"
+    favicon: "/static/profile.jpg"
+    favicon16x16: "/static/profile.jpg"
+    favicon32x32: "/static/profile.jpg"
+    apple_touch_icon: "/static/profile.jpg"
+    safari_pinned_tab: "/static/profile.jpg"
 
   label:
     text: "Home"
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Jagadeesh Mummana
     subtitle: "My Tech BLOG =P"
-    imageUrl: "/assets/profile.jpg"
+    imageUrl: "/static/profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile
