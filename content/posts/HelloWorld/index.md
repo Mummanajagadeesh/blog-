@@ -72,20 +72,20 @@ Here are a few things I’ve been working on:
 1. **[PR057H371C4RM](https://github.com/Mummanajagadeesh/PR057H371C4RM)** – *Prosthetic Arm*  
    It’s a prosthetic arm that tries to mimic finger movements. Basically, it uses servos to pull strings (kind of like how tendons work in real life).  
 
-{{< figure src="prosarm.png" title="Prosthetic Arm Prototype" width="300" align="center">}}
+{{< figure src="prosarm.png" title="Prosthetic Arm Prototype" width="400" align="center">}}
 
 
 2. **[V-RU81K5CU83](https://github.com/Mummanajagadeesh/V-RU81K5CU83)** (*part of [RU83C](https://github.com/Mummanajagadeesh/RU83C)*) – *Virtual Rubik's Cube Simulator*  
    A 3D Rubik’s Cube simulator I built in Unity. It uses the Kociemba Solver to spit out solutions for whatever cube state you throw at it.  
 
-{{< figure src="vrubikscube.png" title="Virtual Rubik's Cube Simulator" width="300" align="center">}}
+{{< figure src="vrubikscube.png" title="Virtual Rubik's Cube Simulator" width="400" align="center">}}
 
 
 
 3. **[ImProVe](https://github.com/Mummanajagadeesh/ImProVe)** – *Image Processing Using Verilog*  
    This one’s about using Verilog for basic image processing—stuff like edge detection and geometric transformations. It’s been a fun mix of hardware and software. Here are a couple of spin-offs from this project:
 
-{{< figure src="improve-label.png" title="Label Detection Using Prewitt Operator" width="300" align="center">}}
+{{< figure src="improve-label.png" title="Label Detection Using Prewitt Operator" width="400" align="center">}}
 
 
    - **Label Detection**:  
@@ -94,9 +94,12 @@ Here are a few things I’ve been working on:
    - **Document Scanner** (*In Progress*):  
      Building off the label detection thing, this one’s about finding the four corners of a document and mapping it to a rectangle. Eventually, I want to throw OCR into the mix to extract text too.
 
-     
+---
+---
 
 > **Heads-up:** Due to some constraints, some repositories are currently private. If you’re curious about any of them, feel free to reach out—I’d be happy to share what I can! 
+---
+---
 
 🌟 I’ll dive deeper into these projects in future posts, so if any of this sounds cool, stick around. Tutorials, breakdowns, lessons learned—all of that’s coming. 
 
