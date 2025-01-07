@@ -74,6 +74,11 @@ Here are a few things I’ve been working on:
 
 ![Prosthetic Arm](/prosarm.png)
 
+<div style="text-align: center;">
+    <img src="prosarm.png" alt="Prosthetic Arm" width="250px">
+</div>
+
+
 2. **[V-RU81K5CU83](https://github.com/Mummanajagadeesh/V-RU81K5CU83)** (*part of [RU83C](https://github.com/Mummanajagadeesh/RU83C)*) – *Virtual Rubik's Cube Simulator*  
    A 3D Rubik’s Cube simulator I built in Unity. It uses the Kociemba Solver to spit out solutions for whatever cube state you throw at it.  
 
