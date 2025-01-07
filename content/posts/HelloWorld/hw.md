@@ -26,11 +26,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "/assets/profile.jpg" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "This is Jagadeesh!!" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
@@ -80,6 +80,8 @@ Here are a few things I’ve been working on:
    A 3D Rubik’s Cube simulator I built in Unity. It uses the Kociemba Solver to spit out solutions for whatever cube state you throw at it.  
 
 ![Virtual Rubik's Cube Simulator](/assets/projects/vrubikscube.png)
+![Virtual Rubik's Cube Simulator](/assets/profile.png)
+
 ![Virtual Rubik's Cube Simulator](https://github.com/Mummanajagadeesh/blog/blob/main/assets/projects/vrubikscube.png)
 
 
