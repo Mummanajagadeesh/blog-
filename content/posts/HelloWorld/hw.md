@@ -26,7 +26,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/assets/profile.jpg" # image path/url
+    image: "profile.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "This is Jagadeesh!!" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -74,11 +74,11 @@ Here are a few things I’ve been working on:
 
 ![Prosthetic Arm](hw/prosarm.png)
 
-
 2. **[V-RU81K5CU83](https://github.com/Mummanajagadeesh/V-RU81K5CU83)** (*part of [RU83C](https://github.com/Mummanajagadeesh/RU83C)*) – *Virtual Rubik's Cube Simulator*  
    A 3D Rubik’s Cube simulator I built in Unity. It uses the Kociemba Solver to spit out solutions for whatever cube state you throw at it.  
 
 ![Virtual Rubik's Cube Simulator](hw/vrubikscube.png)
+
 
 
 3. **[ImProVe](https://github.com/Mummanajagadeesh/ImProVe)** – *Image Processing Using Verilog*  
