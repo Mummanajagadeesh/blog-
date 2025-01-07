@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Jagadeesh Mummana
     subtitle: "My Tech BLOG =P"
-    imageUrl: "label-detec.png"
+    imageUrl: "/assets/profile.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile
