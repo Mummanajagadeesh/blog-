@@ -50,6 +50,8 @@ Welcome to my first-ever blog post! It’s 2025, and I figured it’s about time
 
 My goal? Pretty simple: **share what I know and learn from whoever’s reading this**. I’ve always believed the best way to grow is by helping others grow too. So yeah, let’s learn together.
 
+I’ve been learning so much over the past couple of years, but I realized I rarely document anything. Half the stuff I’ve built lives in random folders on my laptop or notebooks gathering dust. A blog felt like the perfect way to organize my thoughts, get feedback, and maybe help others who are on similar journeys. Plus, it’s a solid excuse to keep myself consistent—can’t slack off if there’s an audience, right?
+
 > **Motto:** "Knowledge grows best when shared." 
 
 ## Who Am I?  
@@ -60,6 +62,8 @@ I’m just a sophomore at **NIT Calicut** studying **Electronics and Communicati
 Whether it’s designing robots, coding up some AI models, or just fiddling with circuits, I love the overlap between software and hardware. 
 
 Oh, and I’ll be honest: I’m also that guy who jumps from one project to another when boredom hits. But hey, it keeps things interesting, right? This blog is my way of documenting the chaos and maybe simplifying some of the stuff I’ve learned along the way.
+
+And yeah, like every robotics enthusiast, I’ve had my fair share of sparks and fried circuits along the way. (RIP to my first Arduino board—I barely knew you.
 
 ## What Am I Up To? 🔍  
 
@@ -80,7 +84,10 @@ Here are a few things I’ve been working on:
      Using Prewitt and Canny edge detectors to find label boundaries. The idea is to detect sudden intensity changes and slap a bounding box over them. Python helps put it all together in the end.  
 
    - **Document Scanner** (*In Progress*):  
-     Building off the label detection thing, this one’s about finding the four corners of a document and mapping it to a rectangle. Eventually, I want to throw OCR into the mix to extract text too.  
+     Building off the label detection thing, this one’s about finding the four corners of a document and mapping it to a rectangle. Eventually, I want to throw OCR into the mix to extract text too.
+
+   ![Profile Picture](/assets/profile.jpg)
+
      
 
 > **Heads-up:** Due to some constraints, some repositories are currently private. If you’re curious about any of them, feel free to reach out—I’d be happy to share what I can! 
