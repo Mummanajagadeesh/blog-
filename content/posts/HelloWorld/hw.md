@@ -71,22 +71,29 @@ Here are a few things I’ve been working on:
 
 1. **[PR057H371C4RM](https://github.com/Mummanajagadeesh/PR057H371C4RM)** – *Prosthetic Arm*  
    It’s a prosthetic arm that tries to mimic finger movements. Basically, it uses servos to pull strings (kind of like how tendons work in real life).  
-    
+
+  <div align="center">
+  <img src="/assets/projects/prosarm.png" alt="prosarm" width="250">
+</div>
 
 2. **[V-RU81K5CU83](https://github.com/Mummanajagadeesh/V-RU81K5CU83)** (*part of [RU83C](https://github.com/Mummanajagadeesh/RU83C)*) – *Virtual Rubik's Cube Simulator*  
    A 3D Rubik’s Cube simulator I built in Unity. It uses the Kociemba Solver to spit out solutions for whatever cube state you throw at it.  
-     
+
+<div align="center">
+  <img src="/assets/projects/vrubikscube.png" alt="Virtual Rubik's Cube Simulator" width="250">
+</div>
 
 3. **[ImProVe](https://github.com/Mummanajagadeesh/ImProVe)** – *Image Processing Using Verilog*  
    This one’s about using Verilog for basic image processing—stuff like edge detection and geometric transformations. It’s been a fun mix of hardware and software. Here are a couple of spin-offs from this project:
 
+<div align="center">
+  <img src="/assets/projects/improve-label.png" alt="ImProVe - Label Detection" width="250">
+</div>
    - **Label Detection**:  
      Using Prewitt and Canny edge detectors to find label boundaries. The idea is to detect sudden intensity changes and slap a bounding box over them. Python helps put it all together in the end.  
 
    - **Document Scanner** (*In Progress*):  
      Building off the label detection thing, this one’s about finding the four corners of a document and mapping it to a rectangle. Eventually, I want to throw OCR into the mix to extract text too.
-
-   ![Profile Picture](/assets/profile.jpg)
 
      
 
