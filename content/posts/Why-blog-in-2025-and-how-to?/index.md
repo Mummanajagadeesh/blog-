@@ -126,7 +126,7 @@ Ask yourself: **Why do I want to blog?**
 
 #### **2. Pick the Right Platform**  
 Here are a few options to suit different needs:  
-- **Techies**: Use GitHub Pages for free hosting or platforms like Jekyll/Hexo for custom setups.  
+- **Techies**: Use GitHub Pages for free hosting or platforms like Jekyll/Hugo for custom setups.  
 - **Beginners**: Try WordPress or Ghost—they’re user-friendly and have tons of templates.  
 - **Minimalists**: Substack or Medium are great for simple, distraction-free writing.  
 
