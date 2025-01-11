@@ -1,10 +1,10 @@
 ---
-title: "Hello World!!"
+title: "Why Blog in 2025? (And How to Get Started)"
 date: 2025-01-10T11:30:03+05:30
 timezone: Asia/Kolkata
 # weight: 1
 # aliases: ["/first"]
-tags: ["Hello World", "First"]
+tags: ["Blog", "Tips"]
 author: "Jagadeesh Mummana"
 # author: ["Me", "You"] # multiple authors
 showToc: false
