@@ -7,7 +7,7 @@
     - [ ] 31-01-2025 | Intro to cube solving, its mechanics  
     - [ ] 07-02-2025 | Types and methods to solve using traditional standard methods—CFOP/Fridrich, Roux....  
     - [ ] 14-02-2025 | How can computers come into play—explaining the number of cases to be solved [12 rejected one]  
-    - [ ] 21-02-2025 | Types of algorithms to solve all cases and approach building  
+    - [ ] 21-02-2025 | Types of algorithms to solve all cases and approach building | thistlethwaite algorithm | Kociemba
     - [ ] 28-02-2025 | Optimizing the solution  
     - [ ] 07-03-2025 | Unity 3D approach to reverify by running simulations [2–3 parts explaining how to, if required]  
     - [ ] 14-03-2025 | Mechanical integration, selection of motors to be used -- considering 1 fixed 5 free approach [5] 
