@@ -26,8 +26,8 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "prosarm.png" # image path/url
-    alt: "prosarm" # alt text
+    image: "/posts/HelloWorld/hw.png" # image path/url
+    alt: "hello world" # alt text
     caption: "This is Jagadeesh!!" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
@@ -36,7 +36,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
 
 
 
