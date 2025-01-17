@@ -37,9 +37,6 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-
-# My ROSConIN'24 Experience – Where It All Began: A Personal Journey through RosConIN'24 and Networking
-
 Last year, I missed ROSCon India due to exams and, honestly, had no idea what I was missing out on. This year, though, I made it, and it turned out to be more than I ever imagined. The two days I spent at ROSConIN'24 were nothing short of transformative, and this blog itself is a result of the inspiration I drew from the event.
 
 ### Setting the Stage
