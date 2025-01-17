@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Discover why blogging in 2025 still matters and how to start sharing your unique voice with the world..."
+description: "An inspiring experience at ROSConIN’24 in Bangalore, connecting with brilliant minds in robotics and open source."
 canonicalURL: "https://mummanajagadeesh.github.io/blog/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -90,5 +90,5 @@ As if ROSConIN’24 wasn’t enough to fill my plate with excitement, the very n
 
 Speaking of Bangalore, let’s not forget the city's legendary traffic. I’ll admit, navigating those jam-packed streets tested my patience (and Google Maps’ sanity), but the morning chill and the sheer energy of being in India’s tech hub more than made up for it. If you’ve never tried squeezing in two major conferences in one trip, let me tell you—it’s like a crash course in networking and caffeine dependency.
 
-Meeting passionate individuals at both events has only fueled my curiosity to dive deeper into robotics and open source. And hey, if I can navigate Bangalore traffic and two back-to-back conferences, I’m pretty sure I can handle just about anything life throws my way!
+Meeting passionate individuals at both events has only fueled my curiosity to dive deeper into robotics and open source. In fact, it was during ROSConIN’24 that I felt inspired to start this tech blog, channeling my excitement and insights into something more tangible. And hey, if I can navigate Bangalore traffic and two back-to-back conferences, I’m pretty sure I can handle just about anything life throws my way!
 
