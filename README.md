@@ -2,7 +2,7 @@
 
 - [x] 03-01-2025 | Hello World – Introducing myself  
 - [x] 10-01-2025 | Why Blog in 2025, and How To? – Introduction to blogging, why you should start one, and how to do it  
-- [ ] 17-01-2025 | My RosConIN'24 Experience – Where it all started: A personal experience at RosConIN'24 and networking  
+- [x] 17-01-2025 | My RosConIN'24 Experience – Where it all started: A personal experience at RosConIN'24 and networking  
 - [ ] 24-01-2025 | Why Should You Start Solving Puzzles? Whether it’s coding or anything else [Intro to Rubiks Cube Solver Series] [PID series (proejct in detail)]
     - [ ] 31-01-2025 | Intro to cube solving, its mechanics  
     - [ ] 07-02-2025 | Types and methods to solve using traditional standard methods—CFOP/Fridrich, Roux....  
